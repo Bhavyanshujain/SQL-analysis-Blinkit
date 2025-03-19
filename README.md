@@ -1,1 +1,2 @@
 # SQL-analysis-Blinkit
+The **Blinkit SQL PPT** showcases how SQL is used to analyze and optimize sales strategies by executing queries on sales data. It includes key insights on sales trends, top-performing products, the impact of outlet size and location, item fat content analysis, and rating comparisons. The presentation highlights SQL’s role in improving data management, decision-making, and operational efficiency for Blinkit.
